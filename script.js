@@ -100,3 +100,6 @@ document.getElementById("resetBtn").addEventListener("click", function () {
     const resultDiv = document.getElementById("result");
     resultDiv.innerHTML = "";
 });
+
+
+
